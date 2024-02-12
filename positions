@@ -1,1 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1> positions to play </h1>
+    <p> This page will  describe the position's heights and the things that the positions are good at.</p>
 
+    <p>This picture will show you the positions of the point gaurd throung the center.</p>
+    <img src="position-in-basketball-300x230.png" alt="Image description" />
+
+
+  </body>
+</html>
