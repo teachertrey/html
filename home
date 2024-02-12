@@ -4,6 +4,13 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-
+    <h1> Basketball Home Page</h1>
+This is the home page for our site about Basketball.
+    <br>
+    <a href="signuppage.html">Sign Up </a>
+    <br>
+     <a href="work.html">Workouts </a>
+    <br>
+     <a href="positions.html">Positions </a>
   </body>
 </html>
